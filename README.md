@@ -1,0 +1,2 @@
+# JAG_Student_Unity_VR
+日本Androidの会学生部によるUnityとVRの勉強会のプロジェクト用リポジトリです。
